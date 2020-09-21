@@ -1,0 +1,51 @@
+/* CSS STYLESHEET DOCUMENT*/
+
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+form{
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(207, 207, 207);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.center-table{
+    margin: 0 auto;
+}
+
+#enter{
+    color: black;
+    font-size: 24px;
+    padding-right: 10px;
+}
+
+#inputNum{
+    color: rgb(77, 77, 77);
+    font-size: 60px;
+    width: 100%;
+}
+
+.data input{
+    padding: 10px;
+    width: 100%;
+}
+
+.submit{
+    background-color: rgb(26, 129, 129);
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.answer{
+    color: rgb(26, 129, 129);
+    font-size: 24px;
+    padding: 20px;
+}
+
+
